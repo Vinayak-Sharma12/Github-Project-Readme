@@ -11,7 +11,17 @@
 
 
 ## **3. Input / Output**
-<img src="https://user-images.githubusercontent.com/7460892/207004091-8f67548d-50ac-49c3-b7cb-ef8ec18a6491.png" width="40%" height="40%">
+<img src="https://i.postimg.cc/tJzNMmqF/Screenshot-2024-11-24-at-1-14-24-PM.png" width="40%" height="40%">
+<img src="https://i.postimg.cc/L6HT1RDD/Screenshot-2024-11-24-at-1-14-52-PM.png" width="40%" height="40%">
+<img src="https://i.postimg.cc/wjMQwVSs/Screenshot-2024-11-24-at-1-15-20-PM.png" widht="40% height="40%">
+<img src="https://i.postimg.cc/L6HT1RDD/Screenshot-2024-11-24-at-1-14-52-PM.png" width="40%" height="40%">
+<img src="https://i.postimg.cc/8Ptbd3nS/Screenshot-2024-11-24-at-1-15-42-PM.png" width="40%" height="40%">
+
+
+
+
+
+
 
 
 ## **4. Live link**
